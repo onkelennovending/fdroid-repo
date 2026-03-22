@@ -1,0 +1,1 @@
+Vending machine Android client app for OnkelEnno vending machines configured with serial port ttyS3. Connects to the vending backend to manage products, process payments, and dispense items.

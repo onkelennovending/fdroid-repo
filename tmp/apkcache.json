@@ -44,7 +44,7 @@
     "added": 1774222525.961077
   },
   "app-ttys3-release.apk": {
-    "hash": "66d9df99f6fd4579a7ac3750163e7b8293481fc24e80090a40824476cab6bc4b",
+    "hash": "a411f26d2c24d349c3f720d8ae17cf45408c43891171f4a6b3ab0a32275c9305",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -117,6 +117,10 @@
       ],
       [
         "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "com.onkelenno.health.permission.CONTROL_MONITORING",
         null
       ],
       [
@@ -130,9 +134,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.onkelenno.vending.ttys3",
-    "versionCode": 15,
+    "versionCode": 16,
     "name": "Vending Machine (ttyS3)",
-    "versionName": "1.2.2",
+    "versionName": "1.2.3",
     "minSdkVersion": 21,
     "targetSdkVersion": 35,
     "nativecode": [
@@ -143,12 +147,12 @@
     ],
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 24607577,
+    "size": 24594325,
     "apkName": "app-ttys3-release.apk",
     "added": 1774213586.0
   },
   "app-ttys4-release.apk": {
-    "hash": "96cdf031f9e6c63f6af20100e9fc2118b4497cebe1da0deeb603bc58b75148cf",
+    "hash": "8f2d881106bf1451cfba3a29e451f6252123f16f63a0ae1cb5e8e7d961ecebc3",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -224,6 +228,10 @@
         null
       ],
       [
+        "com.onkelenno.health.permission.CONTROL_MONITORING",
+        null
+      ],
+      [
         "com.onkelenno.vending.ttys4.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
         null
       ]
@@ -234,9 +242,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.onkelenno.vending.ttys4",
-    "versionCode": 15,
+    "versionCode": 16,
     "name": "Vending Machine (ttyS4)",
-    "versionName": "1.2.2",
+    "versionName": "1.2.3",
     "minSdkVersion": 21,
     "targetSdkVersion": 35,
     "nativecode": [
@@ -247,7 +255,7 @@
     ],
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 24607564,
+    "size": 24594327,
     "apkName": "app-ttys4-release.apk",
     "added": 1774213587.0
   }
