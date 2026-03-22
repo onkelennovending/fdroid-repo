@@ -1,0 +1,1 @@
+Standalone health monitoring app that watches TCN Drivers, YS Vending SDK, and the Vending APK. Automatically restarts crashed processes. Designed for rooted Android 7.1 TCN vending hardware.
