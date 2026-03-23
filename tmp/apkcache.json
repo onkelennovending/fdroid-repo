@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "app-release.apk": {
-    "hash": "4350e965c6f56e66c9c96178e10d635685f586199ecce77a17cd45a6307615af",
+    "hash": "9068882a16e3036fae7f7c41572d8f7b7bb66e6131220efb2ad2ce4f86681acf",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -47,7 +47,7 @@
     "targetSdkVersion": 35,
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 11274715,
+    "size": 11275462,
     "apkName": "app-release.apk",
     "added": 1774222525.0
   },
