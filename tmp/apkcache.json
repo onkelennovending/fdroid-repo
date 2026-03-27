@@ -52,7 +52,7 @@
     "added": 1774222525.0
   },
   "app-ttys3-release.apk": {
-    "hash": "a1927561cafe379ea782a6db29764143725f805cd398a45fdccf45a508f68a2b",
+    "hash": "fb73748daa410acb344e143622ca887e2f55b391f93bd4765784e98dc2536184",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -155,12 +155,12 @@
     ],
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 24594956,
+    "size": 24595346,
     "apkName": "app-ttys3-release.apk",
     "added": 1774213586.0
   },
   "app-ttys4-release.apk": {
-    "hash": "e9ab4f45f86f0e080759f759daca4ae4de46327e05783a082eb186844af3534f",
+    "hash": "d42c0ff463b85704c739317d67bbbe1b91edc16a90b4dd83d42fdf165adfee20",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -263,7 +263,7 @@
     ],
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 24594966,
+    "size": 24595351,
     "apkName": "app-ttys4-release.apk",
     "added": 1774213587.0
   }
