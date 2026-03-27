@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "app-release.apk": {
-    "hash": "cb33db27039ce465d061b153b207481afceadfa2109d20b6fe6b0875d0556365",
+    "hash": "b80467f2d016e72eb935f7a56e9df222050c8d0107c63f179b713d06f286b4c9",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -40,14 +40,14 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.onkelenno.health",
-    "versionCode": 4,
+    "versionCode": 5,
     "name": "Health Monitor",
-    "versionName": "1.2.0",
+    "versionName": "1.3.0",
     "minSdkVersion": 21,
     "targetSdkVersion": 35,
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 11276859,
+    "size": 11276887,
     "apkName": "app-release.apk",
     "added": 1774222525.0
   },
