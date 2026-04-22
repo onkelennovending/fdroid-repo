@@ -58,7 +58,7 @@
     "added": 1774222525.0
   },
   "app-ttys3-release.apk": {
-    "hash": "0513d0aff400714f0d0966418770600e54173715eb83f07507ac09b4137126bc",
+    "hash": "ea9142e7fcadfff266deca3374ca23146585ef80f483a2858d0ae399706dea80",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -148,9 +148,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.onkelenno.vending.ttys3",
-    "versionCode": 46,
+    "versionCode": 47,
     "name": "Vending Machine (ttyS3)",
-    "versionName": "1.4.12",
+    "versionName": "1.4.13",
     "minSdkVersion": 21,
     "targetSdkVersion": 35,
     "nativecode": [
@@ -161,12 +161,12 @@
     ],
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 24620757,
+    "size": 24621582,
     "apkName": "app-ttys3-release.apk",
     "added": 1774213586.0
   },
   "app-ttys4-release.apk": {
-    "hash": "1d43606eb96b3119c4b063f1849a29abfc851b42bb041e513f97ff842e767c21",
+    "hash": "754aa7652cbb235f5af99cb59e502d753baed0318b029711245fb4e18cc3fd59",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -256,9 +256,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.onkelenno.vending.ttys4",
-    "versionCode": 46,
+    "versionCode": 47,
     "name": "Vending Machine (ttyS4)",
-    "versionName": "1.4.12",
+    "versionName": "1.4.13",
     "minSdkVersion": 21,
     "targetSdkVersion": 35,
     "nativecode": [
@@ -269,7 +269,7 @@
     ],
     "sig": "3448ba0b4d3721289a8b11228acf40d0",
     "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
-    "size": 24620759,
+    "size": 24621599,
     "apkName": "app-ttys4-release.apk",
     "added": 1774213587.0
   }
