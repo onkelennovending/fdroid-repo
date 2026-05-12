@@ -2992,13 +2992,77 @@
   "health-release-manifest.json": {
     "name": "health-release-manifest",
     "apkName": "health-release-manifest.json",
-    "hash": "7d150282101b9676cf9115948069c228fc465ba8d551d580f1a21f3e77ec477c",
+    "hash": "23df023d522fc339ee3902015731dcb25b3a03a8cf4095eb3d7e62fcd72cb4b2",
     "hashType": "sha256",
     "ipfsCIDv1": null,
     "versionCode": 0,
-    "versionName": "7d15028",
-    "packageName": "7d150282101b9676cf9115948069c228fc465ba8d551d580f1a21f3e77ec477c",
+    "versionName": "23df023",
+    "packageName": "23df023d522fc339ee3902015731dcb25b3a03a8cf4095eb3d7e62fcd72cb4b2",
     "size": 335,
-    "added": 1778611267.431864
+    "added": 1778611267.0
+  },
+  "com.onkelenno.health_24.apk": {
+    "hash": "45bcb3bb8096e028ab7a248759e2eb56771d079d9edc83e83c4a1c531a7bbf3a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "com.onkelenno.health.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.onkelenno.health",
+    "versionCode": 24,
+    "name": "Health Monitor",
+    "versionName": "1.5.9",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "3448ba0b4d3721289a8b11228acf40d0",
+    "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
+    "size": 11934130,
+    "apkName": "com.onkelenno.health_24.apk",
+    "added": 1778613546.258874
   }
 }
