@@ -1,0 +1,16 @@
+{
+  "versionCode": 7,
+  "versionName": "1.1.4",
+  "channel": "standard",
+  "minVersionCode": 0,
+  "artifacts": {
+    "com.onkelenno.updater.ttys3": {
+      "url": "https://onkelennovending.github.io/fdroid-repo/updater-repo/com.onkelenno.updater.ttys3_7.apk",
+      "sha256": "820491ac1babfd19b50684522786e71ae848122e4021dff68d0ad78beff9e40a"
+    },
+    "com.onkelenno.updater.ttys4": {
+      "url": "https://onkelennovending.github.io/fdroid-repo/updater-repo/com.onkelenno.updater.ttys4_7.apk",
+      "sha256": "bfcb46fab4d529b08c6c0b304e349b956d6603e945850e13526ae709c0688a69"
+    }
+  }
+}
