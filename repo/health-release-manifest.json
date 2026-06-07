@@ -1,12 +1,12 @@
 {
-  "versionCode": 27,
-  "versionName": "1.5.12",
+  "versionCode": 28,
+  "versionName": "1.5.13",
   "channel": "standard",
   "minVersionCode": 0,
   "artifacts": {
     "com.onkelenno.health": {
-      "url": "https://onkelennovending.github.io/fdroid-repo/repo/com.onkelenno.health_27.apk",
-      "sha256": "83965aa72328f49e3b6ad215165e9f8f5987f2bdad97cce01e0663ae53fcc140"
+      "url": "https://onkelennovending.github.io/fdroid-repo/repo/com.onkelenno.health_28.apk",
+      "sha256": "93b6b69758690acf15c33c9f57f23f67ecb5d8d678d89487bc5b119eeffae562"
     }
   }
 }
