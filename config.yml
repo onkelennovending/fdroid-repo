@@ -3,7 +3,7 @@ repo_name: Vending Machine Android
 repo_description: F-Droid repository for Vending Machine Android apps
 archive_older: 3
 repo_keyalias: onkelenno
-keystore: /home/runner/work/com-onkelenno-health/com-onkelenno-health/release-keystore.jks
+keystore: /home/runner/work/com-onkelenno-vending/com-onkelenno-vending/release-keystore.jks
 keystorepass: bl6ZuiMWUDz*7Dpsbe
 keypass: bl6ZuiMWUDz*7Dpsbe
 keydname: CN=Vending Machine, OU=Dev, O=OnkelEnno, L=Unknown, ST=Unknown, C=DE
