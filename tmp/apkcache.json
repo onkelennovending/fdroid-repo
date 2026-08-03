@@ -2992,12 +2992,12 @@
   "health-release-manifest.json": {
     "name": "health-release-manifest",
     "apkName": "health-release-manifest.json",
-    "hash": "cff3e5f32ffa7944083ddd1f853bdbbf784c64b75f7bbdd29f88fc78503e65da",
+    "hash": "8a6cc3ad5aca3737428f1a2abcd5918126ea05560544ae267353e8ef2033fc85",
     "hashType": "sha256",
     "ipfsCIDv1": null,
     "versionCode": 0,
-    "versionName": "cff3e5f",
-    "packageName": "cff3e5f32ffa7944083ddd1f853bdbbf784c64b75f7bbdd29f88fc78503e65da",
+    "versionName": "8a6cc3a",
+    "packageName": "8a6cc3ad5aca3737428f1a2abcd5918126ea05560544ae267353e8ef2033fc85",
     "size": 336,
     "added": 1778611267.0
   },
@@ -22392,5 +22392,69 @@
     "size": 29489835,
     "apkName": "com.onkelenno.vending.ttys4_235.apk",
     "added": 1785766044.599918
+  },
+  "com.onkelenno.health_30.apk": {
+    "hash": "4e65354c5534f97fece8feced4b2cfc444a949692145d57444575ae2d0233fdf",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "com.onkelenno.health.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.onkelenno.health",
+    "versionCode": 30,
+    "name": "Health Monitor",
+    "versionName": "1.5.15",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "3448ba0b4d3721289a8b11228acf40d0",
+    "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
+    "size": 11935498,
+    "apkName": "com.onkelenno.health_30.apk",
+    "added": 1785785157.619321
   }
 }
