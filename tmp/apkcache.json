@@ -2916,12 +2916,12 @@
   "release-manifest.json": {
     "name": "release-manifest",
     "apkName": "release-manifest.json",
-    "hash": "fce0ee2529171228d7360b1dc0965eafe7480101857c851a08f50fb2f61377c9",
+    "hash": "e0428cc3fd42f17d1e8f2a46ed6f55561f00934d379eba17af0f7a192e62df77",
     "hashType": "sha256",
     "ipfsCIDv1": null,
     "versionCode": 0,
-    "versionName": "fce0ee2",
-    "packageName": "fce0ee2529171228d7360b1dc0965eafe7480101857c851a08f50fb2f61377c9",
+    "versionName": "e0428cc",
+    "packageName": "e0428cc3fd42f17d1e8f2a46ed6f55561f00934d379eba17af0f7a192e62df77",
     "size": 584,
     "added": 1778608857.0
   },
@@ -37472,5 +37472,221 @@
     "size": 29859046,
     "apkName": "com.onkelenno.vending.ttys4_320.apk",
     "added": 1791999988.415694
+  },
+  "com.onkelenno.vending.ttys3_321.apk": {
+    "hash": "1638ca4d188eb378805e3d78433fb719a39d7dc49549d24670d8d88012bd2c59",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.RESTART_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CWJ_GROUP",
+        null
+      ],
+      [
+        "android.permission.MTWEAK_USER",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "com.onkelenno.health.permission.CONTROL_MONITORING",
+        null
+      ],
+      [
+        "com.onkelenno.vending.ttys3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.onkelenno.vending.ttys3",
+    "versionCode": 321,
+    "name": "Vending Machine (ttyS3)",
+    "versionName": "1.4.287",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "3448ba0b4d3721289a8b11228acf40d0",
+    "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
+    "size": 29859046,
+    "apkName": "com.onkelenno.vending.ttys3_321.apk",
+    "added": 1792001536.061274
+  },
+  "com.onkelenno.vending.ttys4_321.apk": {
+    "hash": "e512b2e7edff09e72f007aae1510ddc39daad842bf8a9eb496dd3143016c90f0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.RESTART_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CWJ_GROUP",
+        null
+      ],
+      [
+        "android.permission.MTWEAK_USER",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "com.onkelenno.health.permission.CONTROL_MONITORING",
+        null
+      ],
+      [
+        "com.onkelenno.vending.ttys4.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.onkelenno.vending.ttys4",
+    "versionCode": 321,
+    "name": "Vending Machine (ttyS4)",
+    "versionName": "1.4.287",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "3448ba0b4d3721289a8b11228acf40d0",
+    "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
+    "size": 29859049,
+    "apkName": "com.onkelenno.vending.ttys4_321.apk",
+    "added": 1792001536.998082
   }
 }
