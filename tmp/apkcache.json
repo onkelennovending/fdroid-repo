@@ -2992,12 +2992,12 @@
   "health-release-manifest.json": {
     "name": "health-release-manifest",
     "apkName": "health-release-manifest.json",
-    "hash": "4ec5b0d7287b3be676bda1aa9c321a34f51abaa1d2cc3a51f96fae5e8085eea9",
+    "hash": "771eccc35e6fa1678926f9102fd648e04658414fe93ea36964a3130a4c6f87ed",
     "hashType": "sha256",
     "ipfsCIDv1": null,
     "versionCode": 0,
-    "versionName": "4ec5b0d",
-    "packageName": "4ec5b0d7287b3be676bda1aa9c321a34f51abaa1d2cc3a51f96fae5e8085eea9",
+    "versionName": "771eccc",
+    "packageName": "771eccc35e6fa1678926f9102fd648e04658414fe93ea36964a3130a4c6f87ed",
     "size": 336,
     "added": 1778611267.0
   },
@@ -42576,5 +42576,73 @@
     "size": 29891835,
     "apkName": "com.onkelenno.vending.ttys4_344.apk",
     "added": 1793262147.246964
+  },
+  "com.onkelenno.health_42.apk": {
+    "hash": "5f07cb91fe9819914fd7920743f268df712d952ea75fde1cd42eaf80a5928b77",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "com.onkelenno.vending.permission.MAINTENANCE_HANDSHAKE",
+        null
+      ],
+      [
+        "com.onkelenno.health.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.onkelenno.health",
+    "versionCode": 42,
+    "name": "Health Monitor",
+    "versionName": "1.11.4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "3448ba0b4d3721289a8b11228acf40d0",
+    "signer": "e3cb747a9cda3364bd8dd20a8b7566a016b56ebf9564871434f3660073b0fbdf",
+    "size": 12276622,
+    "apkName": "com.onkelenno.health_42.apk",
+    "added": 1793286050.360219
   }
 }
