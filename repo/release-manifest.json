@@ -1,16 +1,16 @@
 {
-  "versionCode": 348,
-  "versionName": "1.4.314",
+  "versionCode": 349,
+  "versionName": "1.4.315",
   "channel": "standard",
   "minVersionCode": 0,
   "artifacts": {
     "com.onkelenno.vending.ttys3": {
-      "url": "https://onkelennovending.github.io/fdroid-repo/repo/com.onkelenno.vending.ttys3_348.apk",
-      "sha256": "6f5afbb065c4f14d9b84062728862084189138f703b66ab122946688852c0d44"
+      "url": "https://onkelennovending.github.io/fdroid-repo/repo/com.onkelenno.vending.ttys3_349.apk",
+      "sha256": "0a12c8c4dff5056388bc71418d45d17155a49182780354e081bec0848dc9c974"
     },
     "com.onkelenno.vending.ttys4": {
-      "url": "https://onkelennovending.github.io/fdroid-repo/repo/com.onkelenno.vending.ttys4_348.apk",
-      "sha256": "aca448f350f5841f716a902fd57aa0c4bcd6b4714a48519fcc02b715f7189611"
+      "url": "https://onkelennovending.github.io/fdroid-repo/repo/com.onkelenno.vending.ttys4_349.apk",
+      "sha256": "53da3d7b3ec66bdc528d1c4f7cd1b51e66c4ca5175e1e6b14d80a54fa7d91cb0"
     }
   }
 }
